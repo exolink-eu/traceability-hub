@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>net9.0;net10.0</TargetFrameworks>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    
+    <PackageId>ExoLink.TraceabilityHub.Client</PackageId>
+    <PackageVersion>1.0.0</PackageVersion>
+    <Authors>ExoLink B.V.</Authors>
+    <Description>Client library for ExoLink TraceabilityHub.</Description>
+    <Copyright>Copyright © 2026 ExoLink B.V.</Copyright>
+    <PackageIcon>Icon.png</PackageIcon>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="Assets\Icon.png" Pack="true" PackagePath="\"/>
+  </ItemGroup>
+
+</Project>
