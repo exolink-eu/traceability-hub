@@ -11,6 +11,9 @@
     <Description>ASP.NET Core integration for ExoLink TraceabilityHub.</Description>
     <Copyright>Copyright © 2026 ExoLink B.V.</Copyright>
     <PackageIcon>Icon.png</PackageIcon>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <PackageLicenseFile>LICENSE.md</PackageLicenseFile>
+    <RepositoryUrl>https://www.github.com/exolink-eu/traceability-hub</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
@@ -19,6 +22,8 @@
 
   <ItemGroup>
     <None Include="Assets\Icon.png" Pack="true" PackagePath="\"/>
+    <None Include="README.md" Pack="true" PackagePath="\"/>
+    <None Include="..\..\LICENSE.md" Pack="true" PackagePath="\"/>
   </ItemGroup>
 
   <ItemGroup>
