@@ -1,6 +1,6 @@
 # ExoLink TraceabilityHub Client
 
-Client libraries for integrating with the [ExoLink TraceabilityHub](https://traceability-hub.exolink.app) — a platform that facilitates the exchange of agricultural lot traceability data between Traceability App Providers (TAPs).
+Client libraries for integrating with the ExoLink TraceabilityHub — a platform that facilitates the exchange of lot traceability data between Traceability App Providers (TAPs).
 
 Two NuGet packages are available:
 
